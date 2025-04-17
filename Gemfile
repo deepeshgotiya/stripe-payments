@@ -65,3 +65,12 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+#stripe gem 
+gem 'stripe', '~> 15.0'
+
+#for env variables
+gem 'dotenv', '~> 3.1', '>= 3.1.8'
+
+#for user authentication
+gem 'devise', '~> 4.9', '>= 4.9.4'
