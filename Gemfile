@@ -74,3 +74,8 @@ gem 'dotenv', '~> 3.1', '>= 3.1.8'
 
 #for user authentication
 gem 'devise', '~> 4.9', '>= 4.9.4'
+
+
+# bootstrap for designing
+gem "cssbundling-rails"
+gem "jsbundling-rails"
